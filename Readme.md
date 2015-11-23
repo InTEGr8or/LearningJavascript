@@ -10,6 +10,7 @@
 - [Perfection Kills](http://perfectionkills.com/)
 - [Douglas Crockford's Wrrrld Wide Web](http://www.crockford.com)
 - [JS Assessment](https://github.com/rmurphey/js-assessment)
+	```A set of code and tests, to test your ability to make the tests pass.```
 
 ## Best Practices
 
